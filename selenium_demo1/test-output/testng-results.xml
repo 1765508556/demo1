@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16472" started-at="2019-03-01T03:28:41Z" finished-at="2019-03-01T03:28:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16472" started-at="2019-03-01T03:28:41Z" finished-at="2019-03-01T03:28:58Z">
+      <class name="selenium_demo1.demo9">
+        <test-method status="PASS" signature="main(java.lang.String, java.lang.String)[pri:0, instance:selenium_demo1.demo9@36ac1596]" name="main" duration-ms="8485" started-at="2019-03-01T11:28:41Z" data-provider="user" finished-at="2019-03-01T11:28:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hujianming]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hujianming123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="main(java.lang.String, java.lang.String)[pri:0, instance:selenium_demo1.demo9@36ac1596]" name="main" duration-ms="7970" started-at="2019-03-01T11:28:50Z" data-provider="user" finished-at="2019-03-01T11:28:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hujianming]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hujianming]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- selenium_demo1.demo9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
